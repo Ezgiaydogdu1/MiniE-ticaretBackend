@@ -1,0 +1,14 @@
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.deps.json
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.runtimeconfig.json
+C:\Users\ezgia\OneDrive\Masaüstü\angularMiniTicaret\MiniTicaret\core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.genruntimeconfig.cache
