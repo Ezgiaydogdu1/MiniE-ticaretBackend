@@ -5,19 +5,19 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{BB98AAD2-28EB-447C-BF56-EC0DF0295823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.Domain", "core\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj", "{32080157-0245-4A13-AF22-0B0CD72D3A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.Domain", "core\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj", "{32080157-0245-4A13-AF22-0B0CD72D3A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.Application", "core\ETicaretAPI.Application\ETicaretAPI.Application.csproj", "{CD8971E2-6DAB-4F29-8840-65B2877D3D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.Application", "core\ETicaretAPI.Application\ETicaretAPI.Application.csproj", "{CD8971E2-6DAB-4F29-8840-65B2877D3D5F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{78043380-EFA6-47FA-8BB3-AB962E8AD535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.Infrastructure", "Infrastructure\ETicaretAPI.Infrastructure\ETicaretAPI.Infrastructure.csproj", "{7F484ADA-3530-47B5-9817-67D1646832EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.Infrastructure", "Infrastructure\ETicaretAPI.Infrastructure\ETicaretAPI.Infrastructure.csproj", "{7F484ADA-3530-47B5-9817-67D1646832EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.Persistence", "Infrastructure\ETicaretAPI.Persistence\ETicaretAPI.Persistence.csproj", "{0FCA0F26-6D5B-485C-814F-652C9A34E89C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.Persistence", "Infrastructure\ETicaretAPI.Persistence\ETicaretAPI.Persistence.csproj", "{0FCA0F26-6D5B-485C-814F-652C9A34E89C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E02ED074-3E7E-4115-AFC6-FABE848E12C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.API", "Presentation\ETicaretAPI.API\ETicaretAPI.API.csproj", "{23B1F407-5366-459A-AAC8-03840ED706B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.API", "Presentation\ETicaretAPI.API\ETicaretAPI.API.csproj", "{23B1F407-5366-459A-AAC8-03840ED706B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
