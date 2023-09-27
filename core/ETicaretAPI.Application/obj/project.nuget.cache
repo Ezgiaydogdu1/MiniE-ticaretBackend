@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Px60V4SOaBONWZt9cGCW8ss4Zh9zWO8QvIyoSv0mWaOxtLD7ez/Knz7eT9hV60A7CxB9gAr+Kr8ZhSvRZ+buQ==",
+  "dgSpecHash": "I1UT4CVyvT4QsPUe4tQ7eiTMqFGwFwpA0jv8rLCM0PyD3d5gDtPYvSLgA6jjAPxO3BSCHkFe1xLc6ORPGHuj3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezgia\\OneDrive\\Masaüstü\\angularMiniTicaret\\MiniTicaret\\core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\ezgia\\OneDrive\\Belgeler\\GitHub\\MiniE-ticaretBackend\\core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezgia\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\ezgia\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

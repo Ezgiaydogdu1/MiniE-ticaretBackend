@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBnWJgFfVInpUtUru50J4EH+TA9H8uuw/KlMgymz7TCRRxz8tcoDL4lzovUVbN1/ZnCdZLNV7+MmHf1NCbCOuQ==",
+  "dgSpecHash": "iEsZyVIGuKBZLrXPHqdWfTlT/zPpnpwqFNQAnst+SVjopIeWrpAinuwHCJCl0sQI4ZqM93UgbPhdyU/aSLVi1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ezgia\\OneDrive\\Masaüstü\\angularMiniTicaret\\MiniTicaret\\core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ezgia\\OneDrive\\Belgeler\\GitHub\\MiniE-ticaretBackend\\core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ezgia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ezgia\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
