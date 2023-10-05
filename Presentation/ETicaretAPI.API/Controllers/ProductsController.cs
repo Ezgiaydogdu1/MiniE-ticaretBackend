@@ -1,5 +1,6 @@
 ﻿using ETicaretAPI.Application.Abstractions;
 using ETicaretAPI.Application.Repositories;
+using ETicaretAPI.Application.RequestParameters;
 using ETicaretAPI.Application.ViewModel.Products;
 using ETicaretAPI.Domain.Entities;
 using ETicaretAPI.Persistence.Concretes;
@@ -26,9 +27,19 @@ namespace ETicaretAPI.API.Controllers
 
         }
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get([FromQuery] Pagination pagination)
         {
-            return Ok(_productReadRepository.GetAll());
+            var products = _productReadRepository.GetAll(false).Select(p => new
+            {
+                p.Id,
+                p.Name,
+                p.Stock,
+                p.Price,
+                p.CreatedDate,
+                p.UpdateDate
+            }).Take(pagination.Page * pagination.Size).Skip(pagination.Size);
+            return Ok(products);
+
         }
 
         [HttpGet("{id}")]
